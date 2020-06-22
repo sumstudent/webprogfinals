@@ -27,21 +27,21 @@ require_once 'view/header.php';
 
       <hr>
       <h3> Profile Details </h3>
-      <label for="first-name"><b>First Name</b></label>
+      <label for="firstname"><b>First Name</b></label>
       <input type="text" class="form-control" placeholder="Enter First Name"
-      name="first-name" id="first-name" required>
+      name="firstname" id="firstname" required>
 
-      <label for="middle-name"><b>Middle Name (optional)</b></label>
+      <label for="middlename"><b>Middle Name (optional)</b></label>
       <input type="text" class="form-control" placeholder="Enter Middle Name"
-      name="middle-name" id="middle-name" >
+      name="middlename" id="middlename" >
 
-      <label for="last-name"><b>Last Name</b></label>
+      <label for="lastname"><b>Last Name</b></label>
       <input type="text" class="form-control" placeholder="Enter Last Name"
-      name="last-name" id="last-name" required>
+      name="lastname" id="lastname" required>
 
-      <label for="suffix-name"><b>Suffix's (optional)</b></label>
+      <label for="suffixname"><b>Suffix's (optional)</b></label>
       <input type="text" class="form-control" placeholder="Enter Suffixes"
-      name="suffix-name" id="suffix-name" >
+      name="suffixname" id="suffixname" >
       <hr>
 
     </div>
