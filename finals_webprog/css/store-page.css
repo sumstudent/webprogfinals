@@ -1,0 +1,45 @@
+.store-item-pad
+{
+  display: block;
+  margin-top: auto;
+  margin-left: auto;
+  margin-right: auto;
+  width: 390px;
+  height: 420px;
+  border: 1px solid black;
+  border-radius: 4px;
+  padding: 5px;
+  overflow: hidden;
+  background-color: #e3f2fd;
+}
+.store-items-pad
+{
+  display: block;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  height: auto;
+  border: 1px solid black;
+  border-radius: 4px;
+  padding: 5px;
+  overflow: hidden;
+  background-color: #a4bcbc;
+}
+
+.store-items, .cart-items
+{
+    text-align: center;
+    display: inline-block;
+}
+
+.store-item, .cart-item
+{
+    display: inline-block;
+}
+
+.store-item-image, .cart-item-image
+{
+    height: 250px;
+    width: 250px;
+}
