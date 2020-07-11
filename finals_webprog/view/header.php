@@ -48,7 +48,7 @@ if (@ $_SERVER['HTTPS'] != 'on') {
         <li class="nav-item searchboxpad">
           <div name="search-box">
             <form action = "item-page.php" method="post">
-            <input type="text" name="search-item" 
+            <input type="text" name="search-item"
             class="form-control"
             placeholder="Search Item"
             id ="search-item">
